@@ -1,6 +1,4 @@
-# Bitcoin Voyager
-
-A Bitcoin price widget for your Mac. It hangs out on your desktop, keeps an eye on the price, and has two moods: Classic and Arcade.
+<img width="2560" height="1280" alt="voyager" src="https://github.com/user-attachments/assets/5bc58305-5c1d-425b-ab49-b700abd5df77" />
 
 ## Pick your mood
 
