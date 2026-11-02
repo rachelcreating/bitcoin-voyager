@@ -1,14 +1,12 @@
 # Bitcoin Voyager
 
-A little Bitcoin price widget for your Mac. It hangs out on your desktop, keeps an eye on the price, and has two moods: Classic and Arcade.
-
-This started as a simple price tracker. Then came the typography, the particles, the pixel font, the hyperspace background… so here we are.
+A Bitcoin price widget for your Mac. It hangs out on your desktop, keeps an eye on the price, and has two moods: Classic and Arcade.
 
 ## Pick your mood
 
 **Classic** is the quieter one. Orange monospace numbers, a drifting starfield, and a simple line chart.
 
-**Arcade** is a little more playful. Pixel type, a red-to-orange-to-yellow-green price gradient, a chunky stepped chart, and stars moving past like you're headed somewhere. No dollar sign or comma on this one. A little arcade-score energy.
+**Arcade** is more playful. Pixel type, a red-to-orange-to-yellow-green price gradient, a chunky stepped chart, and stars moving past like you're in hyperspace.
 
 Switch between them from **Style** in the menu bar. The app remembers your choice.
 
