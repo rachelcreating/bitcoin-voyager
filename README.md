@@ -1,7 +1,5 @@
 <img width="100%" alt="Bitcoin Voyager widgets in Classic and Arcade styles" src="https://github.com/user-attachments/assets/5bc58305-5c1d-425b-ab49-b700abd5df77" />
 
-A floating Bitcoin price widget for your Mac. It checks the price every 30 seconds and draws a small live chart as it goes.
-
 ## Pick your mood
 
 **Classic** is calm: drifting stars and a smooth line. **Arcade** is loud: pixel type, a rainbow price and hyperspace streaks. Switch from **Style** in the menu bar, or press **Command-1** / **Command-2**.
