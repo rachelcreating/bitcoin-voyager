@@ -1,12 +1,10 @@
-<img width="2560" height="1280" alt="voyager" src="https://github.com/user-attachments/assets/5bc58305-5c1d-425b-ab49-b700abd5df77" />
+<img width="100%" alt="Bitcoin Voyager widgets in Classic and Arcade styles" src="https://github.com/user-attachments/assets/5bc58305-5c1d-425b-ab49-b700abd5df77" />
+
+A floating Bitcoin price widget for your Mac. It checks the price every 30 seconds and draws a small live chart as it goes.
 
 ## Pick your mood
 
-**Classic** is the quieter one. Orange monospace numbers, a drifting starfield, and a simple line chart.
-
-**Arcade** is more playful. Pixel type, a red-to-orange-to-yellow-green price gradient, a chunky stepped chart, and stars moving past like you're in hyperspace.
-
-Switch between them from **Style** in the menu bar. The app remembers your choice.
+**Classic** is calm: drifting stars and a smooth line. **Arcade** is loud: pixel type, a rainbow price and hyperspace streaks. Switch from **Style** in the menu bar, or press **Command-1** / **Command-2**.
 
 ## The useful stuff
 
